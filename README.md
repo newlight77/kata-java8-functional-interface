@@ -1,0 +1,1 @@
+# kata-java8-functional-interface
